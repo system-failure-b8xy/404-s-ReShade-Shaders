@@ -1,5 +1,6 @@
-# 404's Reshade Shaders
-This is where you'll find *my* Reshade shaders I made for some of the various games I play.
+# 404's ReShade Shaders
+Download ReShade [here](https://reshade.me/#download)
+This is where you'll find *my* ReShade shaders I made for some of the various games I play.
 
 Currently, the games I made shaders for are:
 1. Poppy Playtime (Chapter 1)
