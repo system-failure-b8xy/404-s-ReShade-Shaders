@@ -5,7 +5,6 @@ Currently, the games I made shaders for are:
 1. Poppy Playtime (Chapter 1)
 2. Slime Rancher 1
 3. Scrap Mechanic
-4. Subnautica Below Zero
 
 ## Poppy Playtime Shaders
 - LiDAR
@@ -17,6 +16,3 @@ Currently, the games I made shaders for are:
 
 ## Scrap Mechanic Shaders
 - Stylized
-
-## Subnautica Below Zero Shaders
-- LiDAR
